@@ -19,7 +19,7 @@
 
 
 using namespace std;
-
+//mainwindow
 #define MAX_LEN 1024
 
 MainWindow::MainWindow(QWidget *parent)
